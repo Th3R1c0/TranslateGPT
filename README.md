@@ -1,4 +1,4 @@
-# TranslateGPT
+# TranslateGPT live: https://translate-gpt-alpha.vercel.app/
 translateGPT will translate any text from english to any target langauge, built on chatgpt
 ![Screenshot 2023-05-18 151007](https://github.com/Th3R1c0/openai-quickstart-node/assets/100747090/f0c5a953-be6a-439f-a8fb-3a56afde8e93)
 
